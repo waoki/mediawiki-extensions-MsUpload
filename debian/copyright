@@ -1,0 +1,18 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: MsUpload
+Source: <https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MsUpload>
+
+Files: *
+Copyright: 2014-2017 Martin Schwindl <wiki@ratin.de>
+           2014-2017 Martin Keyler <wiki@keyler-consult.de>
+           2014-2017 Luis Felipe Schenone <schenonef@gmail.com>
+License: GPL-2.0+
+
+Files: images/*
+Copyright: 2014-2017 Yusuke Kamiyamane (http://p.yusukekamiyamane.com) et al
+License: CC-BY-3.0
+
+Files: debian/*
+Copyright: 2017 Will Aoki <waoki@umnh.utah.edu>
+License: GPL-2.0+
+
